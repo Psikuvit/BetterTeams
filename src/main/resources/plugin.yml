@@ -1,0 +1,9 @@
+name: BetterTeams
+version: '${project.version}'
+main: me.psikuvit.betterteams.BetterTeams
+api-version: '1.13'
+
+commands:
+  betterteams:
+    aliases:
+      - bt
